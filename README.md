@@ -1,2 +1,7 @@
-# demo-diliv-construcciones
-Demo web para DILIV CONSTRUCCIONES — diseñada por eterlab.
+# DILIV CONSTRUCCIONES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
